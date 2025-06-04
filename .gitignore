@@ -1,3 +1,5 @@
 .build/
 *.f
 target/
+src/*.vcd
+src/*.map
